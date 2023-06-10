@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">GhibliApp</string>
+    <string name="search_movie">Cari Filmmu</string>
+    <string name="menu_home">Home</string>
+    <string name="menu_fav">Favorite</string>
+    <string name="menu_profile">Profile</string>
+    <string name="back">Kembali</string>
+    <string name="description">Nausicaä of the Valley of the Wind merupakan film epik yang mengisahkan tentang seorang putri yang berjuang untuk menyelamatkan dunia yang hancur akibat perang dan bencana alam. Nausicaä, seorang pahlawan yang pemberani, berusaha menjaga keseimbangan antara manusia dan alam, serta mencari cara untuk menghentikan konflik yang mengancam kehidupan di Lembah Angin. Dengan kebijaksanaan dan kekuatannya, dia berusaha mengubah takdir dan membawa perdamaian kepada dunia yang dilanda kehancuran.</string>
+    <string name="ownerName">Helen Dharani Jiffri</string>
+    <string name="ownerEmail">a369dsy2040@bangkit.academy</string>
+    <string name="favorite">Favorite</string>
+</resources>
